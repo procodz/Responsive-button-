@@ -24,21 +24,7 @@ a{
     box-shadow: 0 10px 10px -2px rgba(0,0,0,.25);
     transition: 0.5s;
 }
-/*a{
-    color: white;
-    background: #f857a6;
-    border-radius: 15px 30px;
-    margin: ;
-    background: -webkit-linear-gradient(to right,#ff5858,#f857a6);
-    background: linear-gradient(to right,#ff5858,#f857a6);
-    height: 250px;
-    width: 300px;
-    background: transparent;
-    
-    cursor:pointer;
-    text-decoration: none;
-    
-}*/
+
 a:hover{
     background: linear-gradient(to left,#ff5858,#4d4e4a);
     padding: 30px 60px;
